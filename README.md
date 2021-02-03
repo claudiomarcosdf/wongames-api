@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+Strapi application API with GraphQL and PostgreSQL
